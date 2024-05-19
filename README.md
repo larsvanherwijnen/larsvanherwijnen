@@ -1,4 +1,4 @@
-### 👋  Hi there, I'm [Lars van Herwijnen](https://larsvanherwijnen.nl)
+### 👋  Hi there, I'm [Lars van Herwijnen](larsvanherwijnen.github.io/cv/)
 
 I am a Computer Science student at Avans University of Applied Sciences.
 
@@ -27,7 +27,7 @@ I am a Computer Science student at Avans University of Applied Sciences.
 
 <p align = "center">
 
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/mike-de-groot-bb9546266/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://www.linkedin.com/in/lars-van-herwijnen-94ab76193/)
 
 </p>
 
