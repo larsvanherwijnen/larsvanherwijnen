@@ -1,4 +1,4 @@
-### 👋  Hi there, I'm [Lars van Herwijnen](larsvanherwijnen.github.io/cv/)
+### 👋  Hi there, I'm Lars
 
 I am a Computer Science student at Avans University of Applied Sciences.
 
